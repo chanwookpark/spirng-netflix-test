@@ -1,0 +1,5 @@
+rootProject.name = 'spirng-netflix-test'
+
+include 'gateway'
+include 'book'
+
